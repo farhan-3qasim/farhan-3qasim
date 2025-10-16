@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn]((https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/)  
 - 🧑‍💻 [GitHub](https://github.com/your-farhan-3qasim)  
 - ✉️ Email: (farhanqasim03gmail.com)
 
