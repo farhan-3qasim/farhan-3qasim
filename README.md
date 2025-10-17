@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Farhan Qasim
 
 🎓 **Software Engineering Student** at *Islamia College University, Peshawar*  
-💻 Passionate about **Artificial Intelligence, Machine Learning **  
+💻 Passionate about **Artificial Intelligence, Machine Learning**  
 🚀 Currently exploring **Web Development specially mastering Front End Development**  
 
 ---
